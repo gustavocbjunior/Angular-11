@@ -19,6 +19,16 @@
       "name": "Produto teste",
       "price": 125.99,
       "id": 3
+    },
+    {
+      "name": "Cadastrado a partir do formulário",
+      "price": "11.99",
+      "id": 4
+    },
+    {
+      "name": "Mesa de escritório",
+      "price": "355.89",
+      "id": 5
     }
   ]
 }
