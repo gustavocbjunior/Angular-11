@@ -1,19 +1,24 @@
 {
-    "products": [
-        {
-            "id": 1,
-            "name": "Caneta BIC",
-            "price": 5.95
-        },
-        {
-            "id": 2,
-            "name": "Notebook",
-            "price": 15200.95
-        },
-        {
-            "id": 1,
-            "name": "Smartphone",
-            "price": 5123.95
-        }
-    ]
+  "products": [
+    {
+      "id": 1,
+      "name": "Caneta BIC",
+      "price": 5.95
+    },
+    {
+      "id": 2,
+      "name": "Notebook",
+      "price": 15200.95
+    },
+    {
+      "id": 1,
+      "name": "Smartphone",
+      "price": 5123.95
+    },
+    {
+      "name": "Produto teste",
+      "price": 125.99,
+      "id": 3
+    }
+  ]
 }
