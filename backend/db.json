@@ -24,6 +24,11 @@
       "name": "Mesa de escritório",
       "price": "355.89",
       "id": 5
+    },
+    {
+      "name": "teste",
+      "price": "12",
+      "id": 6
     }
   ]
 }
