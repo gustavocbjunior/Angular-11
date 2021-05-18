@@ -7,13 +7,8 @@
     },
     {
       "id": 2,
-      "name": "Notebook",
-      "price": 15200.95
-    },
-    {
-      "id": 1,
-      "name": "Smartphone",
-      "price": 5123.95
+      "name": "Notebook Acer Predator",
+      "price": "12350.95"
     },
     {
       "name": "Produto teste",
